@@ -1,0 +1,57 @@
+"https://vcloud.hudl.com/file/broadcast/3582787.m3u8?hfr=1 - Fairview at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Feb 13, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3582643.m3u8?hfr=1 - Fairview at Paulding | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Feb 5, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3551276.m3u8?hfr=1 - Fairview at Antwerp | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 23, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3022549.m3u8?hfr=1 - Fairview at Paulding | 2025 Football | Division VI Regional Quarterfinal Playoff | MySports.Live - 7 p.m., Nov 7, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759903.m3u8?hfr=1 - Fairview at Wayne Trace | 2025 Football | MySports.Live - 7 p.m., Oct 17, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759798.m3u8?hfr=1 - Fairview at Paulding | 2025 Football | MySports.Live - 7 p.m., Sep 26, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759650.m3u8?hfr=1 - Fairview at Antwerp | 2025 Girls Volleyball | MySports.Live - 6:30 p.m., Sep 23, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2103189.m3u8?hfr=1 - Fairview at Paulding | 2024-25 Boys Basketball | MySports.Live - 7 p.m., Feb 7, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2025490.m3u8?hfr=1 - Fairview at Antwerp | 2024-25 Girls Basketball | MySports.Live - 7 p.m., Jan 23, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/1920786.m3u8?hfr=1 - Fairview at Wayne Trace | 2024-25 Girls Basketball | MySports.Live - 7 p.m., Jan 6, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/1347883.m3u8?hfr=1 - Fairview at Antwerp | 2024 Football | MySports.Live - 7 p.m., Oct 4, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/938924.m3u8?hfr=1 - Fairview at Wayne Trace | 2023-24 Boys Basketball | MySports.Live - 7 p.m., Feb 9, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/953282.m3u8?hfr=1 - Hicksville and Fairview at Paulding | 2023-24 Boys Wrestling | MySports.Live - 6 p.m., Feb 8, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/929959.m3u8?hfr=1 - Fairview at Paulding | 2023-24 Girls Basketball | MySports.Live - 7 p.m., Feb 1, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/890142.m3u8?hfr=1 - Fairview at Antwerp | 2023-24 Boys Basketball | MySports.Live - 7 p.m., Jan 19, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/685661.m3u8?hfr=1 - Fairview at Wayne Trace | 2023 Football | MySports.Live - 7 p.m., Oct 6, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/654733.m3u8?hfr=1 - Fairview at Paulding | 2023 Football | MySports.Live - 7 p.m., Sep 15, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/508007.m3u8?hfr=1 - Fairview at Wayne Trace | 2022-23 Girls Basketball | MySports.Live - 7 p.m., Feb 2, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/507992.m3u8?hfr=1 - Fairview at Paulding | 2022-23 Boys Basketball | MySports.Live - 7 p.m., Jan 27, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/496474.m3u8?hfr=1 - Fairview at Antwerp | 2022-23 Girls Basketball | MySports.Live - 7 p.m., Jan 12, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/431388.m3u8?hfr=1 - Fairview at Antwerp | 2022 Football | MySports.Live - 7 p.m., Sep 23, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/348664.m3u8?hfr=1 - Fairview at Wayne Trace | 2021-22 Boys Basketball | MySports.Live - 7 p.m., Jan 28, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/338468.m3u8?hfr=1 - Fairview at Antwerp | 2021-22 Boys Basketball | MySports.Live - 7 p.m., Jan 7, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/313196.m3u8?hfr=1 - Lake(1) vs Fairview(4) | 2021 Girls Volleyball Division III District Semi-Final | MySports.Live - 5:30 p.m., Oct 25, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/289410.m3u8?hfr=1 - Fairview at Wayne Trace | 2021 Football | MySports.Live - 7 p.m., Oct 1, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/289391.m3u8?hfr=1 - Fairview at Paulding | 2021 Football | MySports.Live - 7 p.m., Sep 10, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/225538.m3u8?hfr=1 - Fairview at Wayne Trace | 2020-21 Girls Basketball | MySports.Live - 7 p.m., Jan 28, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/216537.m3u8?hfr=1 - Fairview at Antwerp | 2020-21 Girls Basketball | MySports.Live - 7 p.m., Jan 7, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/193535.m3u8?hfr=1 - Fairview at Antwerp | 2020 Football | MySports.live - 7 p.m., Sep 25, 2020",

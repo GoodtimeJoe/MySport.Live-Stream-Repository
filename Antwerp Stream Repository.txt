@@ -1,0 +1,49 @@
+"https://vcloud.hudl.com/file/broadcast/3582690.m3u8?hfr=1 - Antwerp and Wayne Trace at Paulding | 2025-26 Boys Wrestling | MySports.Live - 6 p.m., Feb 12, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3582663.m3u8?hfr=1 - Ayersville at Antwerp | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Feb 6, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3552054.m3u8?hfr=1 - Montpelier at Antwerp | 2025-26 Boys Basketball | MySports.Live - 8 p.m., Jan 31, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3551993.m3u8?hfr=1 - Antwerp at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 30, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3588058.m3u8?hfr=1 - Wayne Trace at Antwerp | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 29, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3501839.m3u8?hfr=1 - Patrick Henry at Antwerp | 2025-26 Boys Basketball | MySports.Live - 6 p.m., Jan 24, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3551276.m3u8?hfr=1 - Fairview at Antwerp | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 23, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3501819.m3u8?hfr=1 - Continental at Antwerp | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 20, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3460026.m3u8?hfr=1 - Lincolnview at Antwerp | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 17, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3460021.m3u8?hfr=1 - Edgerton at Antwerp | 2025-26 Girls Basketball | MySports.Live - 6:45 p.m., Jan 15, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3460019.m3u8?hfr=1 - Lincolnview at Antwerp | 2025-26 Girls Basketball | MySports.Live - 6:45 p.m., Jan 13, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3460009.m3u8?hfr=1 - Hilltop at Antwerp | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 12, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3415857.m3u8?hfr=1 - Antwerp at Paulding | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 9, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3415855.m3u8?hfr=1 - Paulding at Antwerp | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 8, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3381677.m3u8?hfr=1 - Crestview at Antwerp | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 3, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3334807.m3u8?hfr=1 - Tinora at Antwerp | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Dec 19, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3321841.m3u8?hfr=1 - North Central at Antwerp | 2025-26 Boys Basketball | MySports.Live - 8 p.m., Dec 16, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3321964.m3u8?hfr=1 - North Central at Antwerp | 2025-26 Girls Basketball | MySports.Live - 6 p.m., Dec 16, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3248071.m3u8?hfr=1 - Hicksville at Antwerp | 2025-26 Girls Basketball | MySports.Live - 6:30 p.m., Dec 11, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3248016.m3u8?hfr=1 - Miller City at Antwerp | 2025-26 Girls Basketball | MySports.Live - 6 p.m., Dec 8, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3142969.m3u8?hfr=1 - Fort Jennings at Antwerp | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Nov 22, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759921.m3u8?hfr=1 - Antwerp at Paulding | 2025 Football | MySports.Live - 7 p.m., Oct 24, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759889.m3u8?hfr=1 - Ayersville at Antwerp | 2025 Football | MySports.Live - 7 p.m., Oct 17, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759879.m3u8?hfr=1 - Wayne Trace at Antwerp | 2025 Football | MySports.Live - 7 p.m., Oct 10, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759859.m3u8?hfr=1 - Paulding at Antwerp | 2025 Volleyball | MySports.Live - 6:30 p.m., Oct 9, 2025",

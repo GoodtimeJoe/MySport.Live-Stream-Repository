@@ -1,0 +1,67 @@
+"https://vcloud.hudl.com/file/broadcast/3582651.m3u8?hfr=1 - Edgerton at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Feb 5, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3501832.m3u8?hfr=1 - Edgerton at Paulding | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 23, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3460021.m3u8?hfr=1 - Edgerton at Antwerp | 2025-26 Girls Basketball | MySports.Live - 6:45 p.m., Jan 15, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/2674582.m3u8?hfr=1 - Edgerton at Antwerp | 2025 Football | MySports.Live - 7 p.m., Sept 12, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2103213.m3u8?hfr=1 - Edgerton at Wayne Trace | 2024-25 Boys Basketball | MySports.Live - 7 p.m., Feb 7, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2025496.m3u8?hfr=1 - Edgerton at Paulding | 2024-25 Girls Basketball | MySports.Live - 7 p.m., Jan 23, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/1976203.m3u8?hfr=1 - Edgerton at Antwerp | 2024-25 Boys Basketball | MySports.Live - 7 p.m., Jan 17, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/1893588.m3u8?hfr=1 - Edon vs Edgerton | 2024 Route 49 Tournament | MySports.Live - 8 p.m., Dec 28, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/1893583.m3u8?hfr=1 - Edgerton vs Antwerp | 2024 Route 49 Tournament | MySports.Live - 8 p.m., Dec 27, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/1347884.m3u8?hfr=1 - Edgerton at Paulding | 2024 Football | MySports.Live - 7 p.m., Oct 4, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/1308029.m3u8?hfr=1 - Edgerton at Wayne Trace | 2024 Football | MySports.Live - 7 p.m., Sept 20, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/890143.m3u8?hfr=1 - Edgerton at Paulding | 2023-24 Boys Basketball | MySports.Live - 7 p.m., Jan 19, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/879764.m3u8?hfr=1 - Edgerton at Antwerp | 2023-24 Girls Basketball | MySports.Live - 7 p.m., Jan 11, 2024",
+
+"https://vcloud.hudl.com/file/broadcast/696177.m3u8?hfr=1 - Edgerton at Antwerp | 2023 Football | MySports.Live - 7 p.m., Oct 20, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/655186.m3u8?hfr=1 - Edgerton at Paulding | 2023 Volleyball | MySports.Live - 6:30 p.m., Sept 19, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/508011.m3u8?hfr=1 - Edgerton at Wayne Trace | 2022-23 Boys Basketball | MySports.Live - 7:45 p.m., Jan 27, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/513960.m3u8?hfr=1 - Edgerton at Wayne Trace | 2022-23 Girls Basketball | MySports.Live - 6 p.m., Jan 27, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/496473.m3u8?hfr=1 - Edgerton at Paulding | 2022-23 Girls Basketball | MySports.Live - 7 p.m., Jan 12, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/489346.m3u8?hfr=1 - Edgerton at Antwerp | 2022-23 Boys Basketball | MySports.Live - 7 p.m., Jan 6, 2023",
+
+"https://vcloud.hudl.com/file/broadcast/489342.m3u8?hfr=1 - Edgerton vs Antwerp | Route 49 Tournament 2022-23 Girls Basketball | MySports.Live - 7 p.m., Dec 28, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/489339.m3u8?hfr=1 - Edgerton vs Hicksville | Route 49 Tournament 2022-23 Girls Basketball | MySports.Live - 4 p.m., Dec 22, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/431389.m3u8?hfr=1 - Edgerton at Paulding | 2022 Football | MySports.Live - 7 p.m., Sept 23, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/420385.m3u8?hfr=1 - Edgerton at Wayne Trace | 2022 Football | MySports.Live - 7 p.m., Sept 9, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/359672.m3u8?hfr=1 - Edgerton(13) vs Crestview(1) | 2022 Girls D-IV Sectional Final | MySports.Live - 5:30 p.m., Feb 21, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/360264.m3u8?hfr=1 - Fayette(14) vs Edgerton(13) | 2022 Girls D-IV Sectional Semi-Final | MySports.Live - 7 p.m., Feb 16, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/345785.m3u8?hfr=1 - Edgerton at Wayne Trace | 2021-22 Girls Basketball | MySports.Live - 6 p.m., Jan 20, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/338469.m3u8?hfr=1 - Edgerton at Paulding | 2021-22 Boys Basketball | MySports.Live - 7 p.m., Jan 7, 2022",
+
+"https://vcloud.hudl.com/file/broadcast/334805.m3u8?hfr=1 - Edgerton at Antwerp | 2021-22 Girls Basketball | MySports.Live - 7 p.m., Dec 16, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/311023.m3u8?hfr=1 - Edgerton at Antwerp | 2021 Football | MySports.Live - 7 p.m., Oct 15, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/289420.m3u8?hfr=1 - Edgerton at Wayne Trace | 2021 Volleyball | MySports.Live - 6:30 p.m., Oct 14, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/289398.m3u8?hfr=1 - Edgerton at Paulding | 2021 Volleyball | MySports.Live - 6:30 p.m., Sept 14, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/223070.m3u8?hfr=1 - Edgerton at Wayne Trace | 2021 Boys Basketball | MySports.Live - 7 p.m., Jan 22, 2021",
+
+"https://vcloud.hudl.com/file/broadcast/216534.m3u8?hfr=1 - Edgerton at Antwerp | 2020-21 Boys Basketball | MySports.Live - 7 p.m., Dec 29, 2020",
+
+"https://vcloud.hudl.com/file/broadcast/207513.m3u8?hfr=1 - Edgerton at Paulding | 2020-21 Girls Basketball | MySports.Live - 7:30 p.m., Nov 20, 2020",

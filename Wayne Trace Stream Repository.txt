@@ -1,0 +1,49 @@
+"https://vcloud.hudl.com/file/broadcast/3582787.m3u8?hfr=1 - Fairview at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Feb 13, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3582690.m3u8?hfr=1 - Antwerp and Wayne Trace at Paulding | 2025-26 Boys Wrestling | MySports.Live - 6 p.m., Feb 12, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3582681.m3u8?hfr=1 - Crestview at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Feb 10, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3582671.m3u8?hfr=1 - Delphos Jefferson at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Feb 7, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3582651.m3u8?hfr=1 - Edgerton at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Feb 5, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3582635.m3u8?hfr=1 - Liberty Center at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 6 p.m., Feb 3, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3552068.m3u8?hfr=1 - Kalida at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 31, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3551993.m3u8?hfr=1 - Antwerp at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 30, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3588058.m3u8?hfr=1 - Wayne Trace at Antwerp | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 29, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3501847.m3u8?hfr=1 - Miller City at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 5 p.m., Jan 24, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3501830.m3u8?hfr=1 - Tinora at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 22, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3501822.m3u8?hfr=1 - Delphos Jefferson at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 20, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3460024.m3u8?hfr=1 - Hicksville at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 16, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3460010.m3u8?hfr=1 - Allen East at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 6:30 p.m., Jan 12, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3415859.m3u8?hfr=1 - Coldwater at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Jan 10, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3415856.m3u8?hfr=1 - Ayersville at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 8, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3415854.m3u8?hfr=1 - Delta at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Jan 6, 2026",
+
+"https://vcloud.hudl.com/file/broadcast/3381319.m3u8?hfr=1 - Fort Jennings at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Dec 29, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3334850.m3u8?hfr=1 - Woodlan at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 1 p.m., Dec 27, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3334813.m3u8?hfr=1 - Paulding at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Dec 19, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3334795.m3u8?hfr=1 - Wayne Trace at Paulding | 2025-26 Girls Basketball | MySports.Live - 7 p.m., Dec 18, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3320775.m3u8?hfr=1 - Lincolnview at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 6:30 p.m., Dec 15, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3189902.m3u8?hfr=1 - Bryan at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Dec 5, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/3143039.m3u8?hfr=1 - Delphos St. Johns at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 9:30 a.m., Nov 29, 2025",
+
+"https://vcloud.hudl.com/file/broadcast/2759903.m3u8?hfr=1 - Fairview at Wayne Trace | 2025 Football | MySports.Live - 7 p.m., Oct 17, 2025",
