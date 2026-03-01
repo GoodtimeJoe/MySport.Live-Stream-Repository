@@ -50,9 +50,9 @@
 
 "https://vcloud.hudl.com/file/broadcast/420384.m3u8?hfr=1 - Hicksville at Antwerp | 2022 Football | MySports.Live - 7 p.m., Sept 9, 2022",
 
-"https://vcloud.hudl.com/file/broadcast/362134.m3u8?hfr=1 - Hicksville(4) vs Styker(8) | 2022 Girls D-IV Sectional Final | MySports.Live - 7:30 p.m., Feb 21, 2022",
+"https://vcloud.hudl.com/file/broadcast/362134.m3u8?hfr=1 - Hicksville vs Styker | 2022 Girls D-IV Sectional Final | MySports.Live - 7:30 p.m., Feb 21, 2022",
 
-"https://vcloud.hudl.com/file/broadcast/359646.m3u8?hfr=1 - Wayne Trace(10) vs Hicksville(4) | 2022 Girls D-IV Sectional Semi-Final | MySports.Live - 7:30 p.m., Feb 19, 2022",
+"https://vcloud.hudl.com/file/broadcast/359646.m3u8?hfr=1 - Wayne Trace vs Hicksville | 2022 Girls D-IV Sectional Semi-Final | MySports.Live - 7:30 p.m., Feb 19, 2022",
 
 "https://vcloud.hudl.com/file/broadcast/348661.m3u8?hfr=1 - Hicksville at Antwerp | 2021-22 Girls Basketball | MySports.Live - 7 p.m., Jan 27, 2022",
 
