@@ -46,9 +46,9 @@
 
 "https://vcloud.hudl.com/file/broadcast/338461.m3u8?hfr=1 - Cardinal Stritch vs Tinora | 2021 Boys Basketball | MySports.Live - 6 p.m., Dec 27, 2021",
 
-"https://vcloud.hudl.com/file/broadcast/313201.m3u8?hfr=1 - Lake(1) vs Tinora(3) | 2021 Volleyball Division III District Final | MySports.Live - 6:30 p.m., Oct 27, 2021",
+"https://vcloud.hudl.com/file/broadcast/313201.m3u8?hfr=1 - Lake vs Tinora | 2021 Volleyball Division III District Final | MySports.Live - 6:30 p.m., Oct 27, 2021",
 
-"https://vcloud.hudl.com/file/broadcast/313198.m3u8?hfr=1 - Achbold(2) vs Tinora(3) | 2021 Volleyball Division III District Semi-Final | MySports.Live - 7 p.m., Oct 25, 2021",
+"https://vcloud.hudl.com/file/broadcast/313198.m3u8?hfr=1 - Achbold vs Tinora | 2021 Volleyball Division III District Semi-Final | MySports.Live - 7 p.m., Oct 25, 2021",
 
 "https://vcloud.hudl.com/file/broadcast/289408.m3u8?hfr=1 - Tinora at Paulding | 2021 Volleyball | MySports.Live - 6:30 p.m., Sept 28, 2021",
 
@@ -59,3 +59,4 @@
 "https://vcloud.hudl.com/file/broadcast/223067.m3u8?hfr=1 - Tinora at Paulding | 2020-21 Girls Basketball | MySports.Live - 7 p.m., Jan 19, 2021",
 
 "https://vcloud.hudl.com/file/broadcast/216539.m3u8?hfr=1 - Tinora at Wayne Trace | 2021 Boys Basketball | MySports.Live - 7 p.m., Jan 8, 2021",
+
