@@ -46,6 +46,7 @@
 
 "https://vcloud.hudl.com/file/broadcast/3189902.m3u8?hfr=1 - Bryan at Wayne Trace | 2025-26 Boys Basketball | MySports.Live - 7 p.m., Dec 5, 2025",
 
-"https://vcloud.hudl.com/file/broadcast/3143039.m3u8?hfr=1 - Delphos St. Johns at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 9:30 a.m., Nov 29, 2025",
+"https://vcloud.hudl.com/file/broadcast/3143039.m3u8?hfr=1 - Delphos St. John's at Wayne Trace | 2025-26 Girls Basketball | MySports.Live - 9:30 a.m., Nov 29, 2025",
 
 "https://vcloud.hudl.com/file/broadcast/2759903.m3u8?hfr=1 - Fairview at Wayne Trace | 2025 Football | MySports.Live - 7 p.m., Oct 17, 2025",
+
