@@ -44,9 +44,9 @@
 
 "https://vcloud.hudl.com/file/broadcast/420385.m3u8?hfr=1 - Edgerton at Wayne Trace | 2022 Football | MySports.Live - 7 p.m., Sept 9, 2022",
 
-"https://vcloud.hudl.com/file/broadcast/359672.m3u8?hfr=1 - Edgerton(13) vs Crestview(1) | 2022 Girls D-IV Sectional Final | MySports.Live - 5:30 p.m., Feb 21, 2022",
+"https://vcloud.hudl.com/file/broadcast/359672.m3u8?hfr=1 - Edgerton vs Crestview | 2022 Girls D-IV Sectional Final | MySports.Live - 5:30 p.m., Feb 21, 2022",
 
-"https://vcloud.hudl.com/file/broadcast/360264.m3u8?hfr=1 - Fayette(14) vs Edgerton(13) | 2022 Girls D-IV Sectional Semi-Final | MySports.Live - 7 p.m., Feb 16, 2022",
+"https://vcloud.hudl.com/file/broadcast/360264.m3u8?hfr=1 - Fayette vs Edgerton | 2022 Girls D-IV Sectional Semi-Final | MySports.Live - 7 p.m., Feb 16, 2022",
 
 "https://vcloud.hudl.com/file/broadcast/345785.m3u8?hfr=1 - Edgerton at Wayne Trace | 2021-22 Girls Basketball | MySports.Live - 6 p.m., Jan 20, 2022",
 
@@ -65,3 +65,4 @@
 "https://vcloud.hudl.com/file/broadcast/216534.m3u8?hfr=1 - Edgerton at Antwerp | 2020-21 Boys Basketball | MySports.Live - 7 p.m., Dec 29, 2020",
 
 "https://vcloud.hudl.com/file/broadcast/207513.m3u8?hfr=1 - Edgerton at Paulding | 2020-21 Girls Basketball | MySports.Live - 7:30 p.m., Nov 20, 2020",
+
